@@ -28,7 +28,7 @@ Open the file called `index.js`
 Go to the line 12 and 13
 <br><br>
 For line 12 its the language you want to translate mirage to.
-You can find the supported languages in <a href="">SUPPORTED_LANGUAGES.md</a>
+You can find the supported languages in <a href="https://github.com/qxb3/translating-mirage/blob/main/SUPPORTED_LANGUAGES.md">SUPPORTED_LANGUAGES.md</a>
 > Example (Translating to russia):
 ```js
 const targetLanguage = 'rs';
