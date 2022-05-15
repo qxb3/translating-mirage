@@ -22,11 +22,11 @@ const fileName = 'bundle_ph.properties';
     done++
     console.log(`Done: ${done}`)
   }
-})()
 
-// Saving the translated version to a file
-let fullTranslatedString = ''
-textsToTranslate.forEach((v, k) => {
-  fullTranslatedString += `${k}=${v}\n`
-})
-fs.writeFileSync(fileName, fullTranslatedString)
+  // Saving the translated version to a file
+  let fullTranslatedString = ''
+  textsToTranslate.forEach((v, k) => {
+    fullTranslatedString += `${k}=${v}\n`
+  })
+  fs.writeFileSync(fileName, fullTranslatedString)
+})()
