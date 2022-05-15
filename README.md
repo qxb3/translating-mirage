@@ -1,6 +1,7 @@
 # What is this?
 
 This is a simple script to help translate <a href="https://github.com/HarveyDogs/client-localisation">mirage realms</a>
+It will take all the mirage texts to google translate and save the translated version into a file
 
 # How to use
 
