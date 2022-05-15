@@ -15,10 +15,9 @@ After you download the zip file extract it
 <br><br>
 Open the terminal and run the following:
 ```sh
-cd translating-mirage
+cd translating-mirage (Or any command just make sure you are in the same directory of the script you just downloaded)
 npm install
 ```
-
 
 ## Code changes
 
