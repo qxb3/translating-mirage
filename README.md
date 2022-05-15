@@ -32,12 +32,12 @@ For line 12 its the language you want to translate mirage to.
 You can find the supported languages in <a href="https://github.com/qxb3/translating-mirage/blob/main/SUPPORTED_LANGUAGES.md">SUPPORTED_LANGUAGES.md</a>
 > Example (Translating to russia):
 ```js
-const targetLanguage = 'rs';
+const targetLanguage = 'ru';
 ```
 For the line 13 its the file name you want to save it<br>
 > Example (Saving it as bundle_rs.properties):<br>
 ```js
-const fileName = 'bundle_rs.properties';
+const fileName = 'bundle_ru.properties';
 ```
 
 # Running the script
