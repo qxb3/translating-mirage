@@ -9,7 +9,7 @@ It will take all the mirage texts to google translate and save the translated ve
 
 First you will need to install nodejs. You can download it in <a href="https://nodejs.org/en/download/">here.</a>
 <br><br>
-Next you will need to download this script. you can download the zip file in <a href="">here</a>
+Next you will need to download this script. you can download the zip file in <a href="https://codeload.github.com/qxb3/translating-mirage/zip/refs/tags/v1.0.0">here</a>
 <br><br>
 After you download the zip file extract it
 <br><br>
